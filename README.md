@@ -72,6 +72,7 @@ Contributions are what make the open source community such an amazing place to l
 ## 🌐 Link of the page
 
 Visit the live project [here](https://cristopherbuitrago.github.io/spiderman-website/).
+Visit the deploy page: https://spiderman-website.netlify.app
 
 ---
 
